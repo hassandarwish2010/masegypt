@@ -1,0 +1,181 @@
+.slid-sty1{
+    z-index: 5; white-space: nowrap; font-size: 16px; line-height: 21px; font-weight: 300; color: rgba(250,183,2,1); letter-spacing: 0px;font-family:Dosis;text-transform:uppercase;
+}
+
+.slid-sty2{
+    z-index: 6;  letter-spacing: -1px !important; white-space: nowrap; font-size: 72px; line-height: inheritpx; font-weight: 300; color: rgba(255,255,255,1); letter-spacing:0 px;font-family:Dosis;text-transform:uppercase;
+}
+
+.slid-sty3{
+z-index: 7; white-space: nowrap; font-size: 14px; line-height: 24px; font-weight: 300; color: rgba(221,221,221,1); letter-spacing:0px;font-family:Raleway;
+}
+.div-hr{
+    background-color: #fff;height: 130px
+}
+
+.back-slider{
+    background:transparent;padding:0px;
+}
+.style-logo{
+    padding-top: 20px;background-color: #fff
+}
+.js-sty{
+    visibility: hidden !important;
+}
+
+.col-whaite{
+    color: #fff;
+    font-size: 20px !important
+}
+.he-error{
+    height: 400px;
+    margin-top:100px;
+}
+.sty-div-top{
+        background-color: #000;
+    color: #fff;
+    line-height: 32px;
+    padding-top: 10px;
+}
+.col-face{
+    color: #b02e18;
+}
+.color-black{
+    color: black !important;
+}
+.marg-r-40{
+    margin-right: 40px !important;
+}
+.w-color{
+    color: #fff !important;
+
+}
+.f-color-cat{
+    color: white;
+}
+.font-as{
+    font-family: FontAwesome !important;
+}
+
+body{
+    font-family:'Cairo' !important;
+}
+.w-text{
+    width: 1100px ;
+    color: #fff;
+    transition: none 0s ease 0s;
+    text-align: inherit;
+    line-height: 52px;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+    letter-spacing: 1px;
+    font-weight: 300;
+    font-size: 30px;
+    font-weight: bold;
+}
+.w-text-desc{
+    width: 1100px ;
+    font-size: 20px;
+}
+.f-s-30{
+    font-size: 30px !important;
+}
+.email{
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}
+f-s-30{
+    font-size: 30px !important;
+}
+
+
+.marg-r-80{
+    margin-right: 80px !important;
+}
+.dropdown-menu > li > a {
+    font-size: 14px;
+    letter-spacing: 0px;
+    word-spacing: 4px;
+}
+#mainmenu a {
+
+ }
+/**/
+ .ct-he-image{
+    height: 260px !important;
+ }
+ .font-icon{
+    font-family: 'et-line' !important;
+ }
+ .marg-top-5{
+    height: 5px;
+ }
+         .title_cat{
+            color: #fab72c;
+            margin-top: 5px;
+        }
+        .des_style{
+            line-height: 30px;
+            color: #fff !important;
+        }
+        .border-div{
+                border: 8px solid #fff;
+        }
+
+        .ul-sty{ 
+           
+            white-space:nowrap; 
+            height: 20px;
+            width: 100%;
+            } 
+
+            .ul-sty li
+            { 
+            display:inline; 
+            } 
+            .col-red{
+                color: #d21f1b
+            }
+
+            .min-marg{
+                margin-top: -34px;
+            }
+            .pf_title .project-name{
+    letter-spacing: 0px !important;
+}
+ #subheader{
+        background-image:url(../index-masonry-black/td-content/themes/archi/images/subheader-1.jpg);
+    }
+
+ .sty-footer{
+        font-size:16px;color:#BC0C06;
+    }
+    
+/**/
+ @media screen and (max-width: 640px) {
+
+    .w-text{
+        width: 300px !important;
+        font-size: 18px !important;
+        text-align: left;
+        float: left;
+        direction: ltr;
+    }
+    .w-text-desc{
+        width: 300px !important;
+        font-size: 16px !important;
+        text-align: left;
+        float: left;
+        direction: ltr;
+    }
+.div-hr{
+    height: 0px
+}
+.style-logo{
+    padding-top: 20px;background-color: #111111
+}
+
+}

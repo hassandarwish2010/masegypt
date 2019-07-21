@@ -1,0 +1,40 @@
+.y-color{
+    color: #fab72c !important;	
+}
+
+.t-center{
+	text-align: center !important;
+}
+
+.contact-back{
+
+   
+    width: 100%;
+    padding-top: 22px;
+}
+
+.con{
+	margin-right: 10px;
+	margin-left: 10px;
+	
+}
+
+.w-90{
+	width: 90% !important;
+}
+
+.marg-t-30{
+	margin-top: 30px
+}
+.thnk{
+	margin-top: 20px;font-size: 20px;margin-bottom: 20px;
+	color:  #fab72c !important;
+
+}
+.min-h{
+	min-height: 58px
+}
+
+.fo-wight{
+	font-weight: 700 !important;
+}
